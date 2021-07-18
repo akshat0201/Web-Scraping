@@ -27,4 +27,4 @@ To run locally, first install the required libraries:
   3. pip install pandas
   4. pip install numpy
 
-Then open the holiday.ipnb file in Jupyter Notebook and run.
+Then open the holiday.ipynb file in Jupyter Notebook and run.
