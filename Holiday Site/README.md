@@ -6,10 +6,11 @@ This web scraper looks through the website and collects the places, the states t
 This data is stored in a csv file on which all types of data analysis can be done.
 
 To run locally, first install the required libraries:
-  > pip install beautifulsoup4
-  > pip install requests
-  > pip install pandas
-  > pip install numpy
+  > 
+    pip install numpy
+    pip install pandas
+    pip install beautifulsoup4 
+    pip install requests
 
 Then open the holiday.ipynb file in Jupyter Notebook and run.
  
