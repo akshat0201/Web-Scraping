@@ -15,16 +15,3 @@ To run locally, first install the required libraries:
   2. pip install requests
 
 Then run the python file using: python3 scrape.py
-
-# Holiday Destination Site
-
-This project looks through the website and collects the places, the states they're in, ratings, starting prices, famous landmarks and provides a link to book your travel.
-This data is stored in a csv file on which all types of data analysis can be done.
-
-To run locally, first install the required libraries:
-  1. pip install beautifulsoup4
-  2. pip install requests
-  3. pip install pandas
-  4. pip install numpy
-
-Then open the holiday.ipynb file in Jupyter Notebook and run.
