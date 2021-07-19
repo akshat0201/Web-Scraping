@@ -2,7 +2,7 @@
 
 Website Used: https://www.holidify.com/explore/
  
-This project looks through the website and collects the places, the states they're in, ratings, starting prices, famous landmarks and provides a link to book your travel.
+This web scraper looks through the website and collects the places, the states they're in, ratings, starting prices, famous landmarks and provides a link to book your travel.
 This data is stored in a csv file on which all types of data analysis can be done.
 
 To run locally, first install the required libraries:
